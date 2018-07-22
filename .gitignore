@@ -1,2 +1,3 @@
 *.pyc
 djangoproject/settings.py
+db.sqlite3
